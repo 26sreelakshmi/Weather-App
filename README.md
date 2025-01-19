@@ -8,7 +8,7 @@ The **Weather-App** is a simple and user-friendly application that allows users 
 
 - Search for weather details by city name.
 - Displays temperature, weather conditions, humidity, and wind speed.
-- Responsive design for seamless experience across devices.
+- Responsive design for a seamless experience across devices.
 
 ---
 
@@ -35,7 +35,7 @@ Ensure you have the following installed on your system:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/26sreelakshmi/weather-app.git
+   git clone https://github.com/26sreelakshmi/Weather-App.git
    ```
 
 2. **Navigate to the Project Directory:**
