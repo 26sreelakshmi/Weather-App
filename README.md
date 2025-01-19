@@ -40,7 +40,7 @@ Ensure you have the following installed on your system:
 
 2. **Navigate to the Project Directory:**
    ```bash
-   cd weather-app
+   cd Weather-App
    ```
 
 3. **Open the Application:**
